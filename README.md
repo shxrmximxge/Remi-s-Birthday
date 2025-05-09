@@ -58,7 +58,7 @@
 
   <p class="footer">
     With all the love and cake vibes,<br>
-    💛 [Your Name]
+    💛 Image (Shadow)
   </p>
 </body>
 </html>
